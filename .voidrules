@@ -1,0 +1,20 @@
+[general]
+language = zh-CN
+
+[ai_assistant]
+default_prompt_language = zh-CN
+force_zh_communication = true
+translate_code_explanations = true
+auto_translate_input_to = zh-CN
+
+[ui]
+language = zh-CN
+tooltips_in_zh = true
+
+[collaboration]
+default_chat_language = zh-CN
+show_language_notice = true
+
+[snippets]
+你好 = 你好，请问有什么可以帮您？
+谢谢 = 感谢您的协作，祝你编码愉快！
