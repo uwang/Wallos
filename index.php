@@ -219,7 +219,7 @@ $headerClass = count($subscriptions) > 0 ? "main-actions" : "main-actions hidden
       IntlDateFormatter::NONE,
       null,
       null,
-      'MMM d, yyyy'
+      'yyyy-MM-dd'
     );
 
     foreach ($subscriptions as $subscription) {
